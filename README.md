@@ -19,4 +19,4 @@ Remember that you have to choose between 3 options ( CREATE ò DESTROY ò OUTPUT
 
 - terraform-modules --> terraform modules to create kubernetes cluster
 
-- _startup.sh ---> Inizialicer 
+- _startup.sh ---> Initializer 
